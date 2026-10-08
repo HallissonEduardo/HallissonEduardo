@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no
 
 Abaixo estão alguns dos meus projetos, desenvolvidos principalmente para **praticar e aprofundar meus conhecimentos em Python e Programação Orientada a Objetos (POO)**.
 
-Atualmente, meu foco é fortalecer minha base em Python antes de iniciar meus estudos em **Java**, buscando evoluir gradualmente meus conhecimentos em desenvolvimento de software.
+Meu foco é fortalecer minha base em Python antes de iniciar meus estudos em **Java**, buscando evoluir gradualmente meus conhecimentos em desenvolvimento de software.
 
 📧 **Email:** [hallissonedu08@gmail.com](mailto:hallissonedu08@gmail.com)
 
