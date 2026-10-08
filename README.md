@@ -1,6 +1,6 @@
 # Hallisson Eduardo 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no 2º semestre, e estou construindo minha experiência na área de desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no 2º semestre.
 
 Abaixo estão alguns dos meus projetos, desenvolvidos principalmente para **praticar e aprofundar meus conhecimentos em Python e Programação Orientada a Objetos (POO)**.
 
