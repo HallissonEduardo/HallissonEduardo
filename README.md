@@ -1,12 +1,13 @@
-# Hallisson Eduardo! 👋
+# Hallisson Eduardo 👋
 
-Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha experiência na área de desenvolvimento de software.
 
-##  Sobre mim
--  Atualmente trabalhando em automações fiscais (REINF, DCTFWEB, SPED, ICMS, IRRF)
--  Extração e geração de dados com **pdfplumber** e **openpyxl**
-- Email: [hallissonedu08@gmail.com](mailto:hallissonedu08@gmail.com)
-- Abaixo estão meus repositórios focados em desenvolvimento POO 
+Abaixo estão alguns dos meus projetos, desenvolvidos principalmente para **praticar e aprofundar meus conhecimentos em Python e Programação Orientada a Objetos (POO)**.
+
+Atualmente, meu foco é fortalecer minha base em Python antes de iniciar meus estudos em **Java**, buscando evoluir gradualmente meus conhecimentos em desenvolvimento de software.
+
+📧 **Email:** [hallissonedu08@gmail.com](mailto:hallissonedu08@gmail.com)
+
 
 
 
